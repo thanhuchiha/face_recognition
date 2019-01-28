@@ -5,7 +5,7 @@
 #	--le output/le.pickle
 
 # >=90% oke 8fps
-#demo git
+#demo git abc
 # import the necessary packages
 from imutils.video import VideoStream
 from imutils.video import FPS
